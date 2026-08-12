@@ -22,7 +22,7 @@ const projects = [
     number: "02",
     name: "Productivity Dashboard",
     description:
-      "A dedicated hub for managing, organizing and exploring AI prompts with powerful search, filtering and productivity-focused features.",
+      "A modern productivity dashboard designed to streamline tasks, track progress, manage daily activities, and keep everything organized in one focused workspace.",
     tech: ["React", "Redux", "LocalStorage"],
     image: productivity,
     link: "https://github.com/iamkishan07/Cohort3.0_assignment-9",
